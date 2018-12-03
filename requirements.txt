@@ -2,3 +2,5 @@ setuptools==40.6.2
 Flask==0.12.1
 spacy==2.0.9
 thinc==6.12.0
+cytoolz==0.9.0.1
+ujson==1.35
