@@ -1,4 +1,6 @@
 from flask import Flask, redirect, url_for, request
+from distutils.core import setup
+import setuptools
 import spacy
 import re
 import json
